@@ -1,0 +1,19 @@
+{
+  "name": "p.os-1.4.0",
+  "version": "1.4.0",
+  "description": "p.OS discord bot version 1.4.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pirate-zip/p.OS-v1.4.0.git"
+  },
+  "author": "pirate_zip",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pirate-zip/p.OS-v1.4.0/issues"
+  },
+  "homepage": "https://github.com/pirate-zip/p.OS-v1.4.0#readme"
+}
